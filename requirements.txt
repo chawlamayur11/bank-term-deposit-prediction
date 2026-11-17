@@ -1,0 +1,13 @@
+# Core Machine Learning & Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+
+# Web Service API
+fastapi>=0.100.0
+uvicorn>=0.23.0
+pydantic>=2.0.0
+
+# HTTP Requests & Testing
+requests>=2.31.0
